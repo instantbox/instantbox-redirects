@@ -1,1 +1,1 @@
-# instantbox-redirects
+# instantbox-static
