@@ -1,0 +1,1 @@
+# instantbox-redirects
